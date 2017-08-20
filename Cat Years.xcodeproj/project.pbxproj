@@ -14,6 +14,7 @@
 		0C259C591F49683E0062958B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C259C571F49683E0062958B /* LaunchScreen.storyboard */; };
 		0C259C641F49683F0062958B /* Cat_YearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C259C631F49683F0062958B /* Cat_YearsTests.swift */; };
 		0C259C6F1F49683F0062958B /* Cat_YearsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C259C6E1F49683F0062958B /* Cat_YearsUITests.swift */; };
+		0C259C7D1F496C410062958B /* cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C259C7C1F496C410062958B /* cat.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0C259C6A1F49683F0062958B /* Cat YearsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat YearsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C259C6E1F49683F0062958B /* Cat_YearsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_YearsUITests.swift; sourceTree = "<group>"; };
 		0C259C701F49683F0062958B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C259C7C1F496C410062958B /* cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				0C259C4E1F49683E0062958B /* AppDelegate.swift */,
 				0C259C501F49683E0062958B /* ViewController.swift */,
+				0C259C7C1F496C410062958B /* cat.png */,
 				0C259C521F49683E0062958B /* Main.storyboard */,
 				0C259C551F49683E0062958B /* Assets.xcassets */,
 				0C259C571F49683E0062958B /* LaunchScreen.storyboard */,
@@ -234,6 +237,7 @@
 			files = (
 				0C259C591F49683E0062958B /* LaunchScreen.storyboard in Resources */,
 				0C259C561F49683E0062958B /* Assets.xcassets in Resources */,
+				0C259C7D1F496C410062958B /* cat.png in Resources */,
 				0C259C541F49683E0062958B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
